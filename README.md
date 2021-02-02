@@ -9,4 +9,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaymisonbetini&layout=compact)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhaymisonbetini)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhaymisonbetini&show_icons=true&theme=synthwave)
