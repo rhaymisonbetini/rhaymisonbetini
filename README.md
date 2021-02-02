@@ -96,6 +96,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaymisonbetini&layout=compact)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhaymisonbetini&show_icons=true&theme=synthwave)
