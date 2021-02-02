@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhaymison Betini</h1>
-<h3 align="center">FullStack Developer, postgraduate AI and postgraduate in software engineer</h3>
+<h3 align="center">FullStack Developer, postgraduate in Artificial Intelligence and postgraduate in software engineer</h3>
 
 - 🔭 I’m currently working on **Mobile Projects with IONIC5 / Angular/ Node.js and Laravel**
 
