@@ -52,7 +52,7 @@
 </a> 
 
 <a href="https://ionicframework.com" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" width="40" height="40"/> 
+<img src="https://plugins.jetbrains.com/files/13666/100004/icon/pluginIcon.png" alt="flutter" width="40" height="40"/> 
 </a> 
 
 <br/>
