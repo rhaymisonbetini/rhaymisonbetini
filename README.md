@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhaymison Betini</h1>
 <h3 align="center">FullStack Developer, postgraduate in Artificial Intelligence and postgraduate in software engineer</h3>
 
-<img src="https://mocah.org/thumbs/997847-fsociety-Mr.-Robot-logo-4K-digital-art-fan-art.jpg">
+<img src="https://mocah.org/thumbs/997847-fsociety-Mr.-Robot-logo-4K-digital-art-fan-art.jpg" width="100%">
 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
