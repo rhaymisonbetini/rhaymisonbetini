@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.vectorlogo.zone/logos/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="80" height="40"/> </a>
+ <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="80" height="40"/> 
 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> 
