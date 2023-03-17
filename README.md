@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rhaymison Betini</h1>
-<h3 align="center">Software engineer</h3>
+<h1 align="center">Hi 👋, I'em Rhaymison Betini</h1>
+<h3 align="center">Software Engineer</h3>
 <h4 align="center">Graduate in Artificial Intelligence</h3>
-<h4 align="center">Graduate in software engineer</h3>
+<h4 align="center">Graduate in Software Engineer</h3>
 <h4 align="center">Graduate student in Cyber security</h3>
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
