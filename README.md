@@ -1,9 +1,8 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Rhaymison Betini</h1>
+<h1 align="center">Hi 👋, I'm Rhaymison Betini <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </h1>
 <h3 align="center">Software Engineer</h3>
 <h4 align="center">Graduate in Artificial Intelligence</h3>
 <h4 align="center">Graduate in Software Engineer</h3>
