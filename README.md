@@ -8,6 +8,7 @@
 <h4 align="center">Graduate in Artificial Intelligence</h3>
 <h4 align="center">Graduate in Software Engineer</h3>
 <h4 align="center">Graduate student in Cyber security</h3>
+<h4 align="center">B.Sc in Mathematics - Expected Graduation: March 2026.</h3>
 <div align="center">
 </div>
 <div align="center">
