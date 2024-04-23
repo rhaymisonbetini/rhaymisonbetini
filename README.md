@@ -1,4 +1,5 @@
 # Hello, I'm Rhaymison Betini! 👋
+![photo](https://github.com/rhaymisonbetini/huggphotos/blob/main/giphy.gif?raw=true)
 
 With over 7 years of experience, I am a senior software developer who has developed a particular expertise in Artificial Intelligence over the years, complemented by a postgraduate degree in the field.
 
