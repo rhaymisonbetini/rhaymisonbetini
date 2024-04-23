@@ -1,6 +1,5 @@
 
 <div id="header" align="center">
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/8YWYIgeyUAuJT5Jjc9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/8YWYIgeyUAuJT5Jjc9">via GIPHY</a></p>
 Hello, I'm Rhaymison Betini! 👋
 With over 7 years of experience, I am a senior software developer who has developed a particular expertise in Artificial Intelligence over the years, complemented by a postgraduate degree in the field.
 ## Skills 💻
