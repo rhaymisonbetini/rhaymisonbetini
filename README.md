@@ -14,8 +14,7 @@ With over 7 years of experience, I am a senior software developer who has develo
 - **Bachelor's in Systems Analysis and Development**
 - **Postgraduate Degree in Artificial Intelligence**
 - **Postgraduate Degree in Software Engineering**
-- **Postgraduate Degree in Cyber Security**
-- **Postgraduate Degree in Progress in Statistics for Data Science**
+
 
 ## Connect with Me 🌐
 - **Hugging Face:** [rhaymison](https://huggingface.co/rhaymison)
