@@ -24,7 +24,7 @@ Degree in Systems Analysis and Development
 <div>
   <a href="https://github.com/lisaterumi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaymisonbetini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?rhaymisonbetini=lisaterumi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaymisonbetini&layout=compact&langs_count=7&theme=dark"/>
  <br />
 <p align="center"> <a href="https://github.com/rhaymisonbetini"><img src="https://github-profile-trophy.vercel.app/?username=rhaymisonbetini&margin-w=5&theme=radical" alt="rhaymisonbetini" /></a>
 </div>
