@@ -77,7 +77,7 @@
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| **🖥️ Terminator** | A next-gen terminal with AI + structured execution, inspired by Warp but pushing deeper into automation and developer workflows. | TypeScript · AI Agents | [Live demo ↗](https://rhaymisonbetini.github.io/terminator-frontend/) |
+| **🖥️ Terminator** | A next-gen terminal with AI + structured execution, inspired by Warp but pushing deeper into automation and developer workflows. | Python · AI Agents | [Live demo ↗](https://rhaymisonbetini.github.io/terminator-frontend/) |
 | _Coming soon_ | _Slot reserved for the next thing._ | — | — |
 | _Coming soon_ | _Slot reserved for the next thing._ | — | — |
 
@@ -85,7 +85,9 @@
 
 ### 🎓 Education & Research
 
-🎓 **Postgrad** in Database Administration · Artificial Intelligence · Software Engineering &nbsp;·&nbsp; 🎓 **Degree** in Systems Analysis and Development &nbsp;·&nbsp; 🔬 **AI Researcher** @ AKCIT
+🎓 **Postgrad** in Database Administration · Artificial Intelligence · Software Engineering &nbsp;·&nbsp; 
+🎓 **Degree** in Systems Analysis and Development &nbsp;·&nbsp;
+🔬 **AI Researcher** @ AKCIT
 
 ---
 
