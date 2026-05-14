@@ -1,123 +1,105 @@
-# 👋 Hey, I'm Rhaymison Betini
-
-<p align="left">
-  <img src="https://github.com/rhaymisonbetini/huggphotos/blob/main/giphy.gif?raw=true" width="220" />
-</p>
-
-## 🚀 Senior Software Engineer | AI Engineer
-
-Software engineer with **8+ years of experience**, currently focused on building **AI-powered systems, autonomous agents, and scalable backend architectures**.
-
-I combine strong backend expertise (Laravel ecosystem) with modern AI stacks (LLMs, agents, orchestration) to build **real-world production systems**, not just experiments.
-
----
-
-## 🧠 What I’m Focused On
-
-* 🤖 **AI Agents & Automation**
-
-  * CrewAI, LangChain, LLM orchestration
-  * Multi-agent systems and task pipelines
-
-* ⚙️ **Backend & Architecture**
-
-  * Laravel (Nova → Filament migration)
-  * Scalable APIs and job/queue systems
-
-* 🧪 **Applied AI**
-
-  * NLP, Transformers, embeddings
-  * Real-world AI integrations (not just notebooks)
-
-* 🏗️ **Systems Thinking**
-
-  * High-volume data processing
-  * Distributed workflows
-  * Observability & performance
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://github.com/rhaymisonbetini/huggphotos/blob/main/giphy.gif?raw=true" width="180" />
+    </td>
+    <td>
+      <h1>Hey, I'm Rhaymison Betini 👋</h1>
+      <p>
+        <b>Senior Software Engineer · AI Engineer</b><br/>
+        8+ years building scalable backends and production-grade AI systems —
+        not notebooks, not demos, real systems serving real users.
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/rhaymison-cristian-betini-2b3016175/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://huggingface.co/rhaymison">
+          <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        </a>
+        <a href="https://medium.com/@betinioheleno">
+          <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
+        </a>
+        <a href="https://www.npmjs.com/~rhaymisonbetini">
+          <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+### 🎯 What I'm focused on
 
-### Languages
-
-* Python
-* PHP
-* TypeScript / JavaScript
-
-### Backend & Frameworks
-
-* Laravel (Filament, Nova)
-* Flask
-
-### AI & Data
-
-* LangChain
-* CrewAI
-* Transformers
-* Ollama (local LLMs)
-
-### Infrastructure
-
-* Linux
-* AWS / GCP
-* Docker
-* Redis / Queues
-
-### Databases
-
-* MySQL
-* PostgreSQL
+| 🤖 **AI Agents & Automation** | ⚙️ **Backend & Architecture** |
+|---|---|
+| CrewAI, LangChain, LLM orchestration. Multi-agent systems and task pipelines that actually ship. | Laravel ecosystem (Nova → Filament migrations), scalable APIs, job/queue systems at volume. |
+| 🧪 **Applied AI** | 🏗️ **Systems Thinking** |
+| NLP, Transformers, embeddings. Production integrations — not Jupyter experiments. | High-volume data processing, distributed workflows, observability & performance. |
 
 ---
 
-## 🎓 Education
+### 🛠️ Tech Stack
 
-* 🎓 Postgraduate Student in Database Administration
-* 🎓 Postgraduate in Artificial Intelligence
-* 🎓 Postgraduate in Software Engineering
-* 🎓 Degree in Systems Analysis and Development
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Frameworks**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-F59E0B?style=flat-square&logo=filament&logoColor=white)
+![Nova](https://img.shields.io/badge/Laravel%20Nova-4F5B93?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**AI & Data**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**Infrastructure**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 🔬 Research & Community
+### 🚀 Personal Projects
 
-* 🧠 AI Researcher @AKCIT
-* 💡 Focus on applied AI and production-grade systems
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn:
-  https://www.linkedin.com/in/rhaymison-cristian-betini-2b3016175/
-
-* 🤗 Hugging Face:
-  https://huggingface.co/rhaymison
-
-* 📝 Medium:
-  https://medium.com/@betinioheleno
-
-* 📦 NPM:
-  https://www.npmjs.com/~rhaymisonbetini
+| Project | What it is | Stack | Link |
+|---|---|---|---|
+| **🖥️ Terminator** | A next-gen terminal with AI + structured execution, inspired by Warp but pushing deeper into automation and developer workflows. | TypeScript · AI Agents | [Live demo ↗](https://rhaymisonbetini.github.io/terminator-frontend/) |
+| _Coming soon_ | _Slot reserved for the next thing._ | — | — |
+| _Coming soon_ | _Slot reserved for the next thing._ | — | — |
 
 ---
 
-## 📊 GitHub Stats
+### 🎓 Education & Research
+
+🎓 **Postgrad** in Database Administration · Artificial Intelligence · Software Engineering &nbsp;·&nbsp; 🎓 **Degree** in Systems Analysis and Development &nbsp;·&nbsp; 🔬 **AI Researcher** @ AKCIT
+
+---
+
+### 📊 GitHub
 
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaymisonbetini&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaymisonbetini&layout=compact&langs_count=6&theme=gruvbox"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=rhaymisonbetini&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaymisonbetini&layout=compact&langs_count=6&theme=gruvbox&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rhaymisonbetini&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rhaymisonbetini&theme=gruvbox&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## ⚡ Current Obsession
-
-Building a **next-generation terminal with AI + structured execution**, inspired by modern tools like Warp — but pushing deeper into automation and developer workflows.
-
----
+<sub>⚡ Currently obsessed with: building <b>Terminator</b> — bringing AI-powered structured execution to the terminal.</sub>
