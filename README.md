@@ -1,7 +1,21 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  README pessoal — Rhaymison Betini                                ║
+  ║                                                                    ║
+  ║  Duas animações Lottie estão embutidas (header + triatlo).         ║
+  ║  Se alguma quebrar, troque a URL .svg em https://lottiefiles.com   ║
+  ║  filtrando por "Free", buscando por:                               ║
+  ║   - Header:   "robot coding" / "developer coding" / "ai typing"    ║
+  ║   - Triatlo:  "cyclist" / "runner" / "triathlon" / "athlete"       ║
+  ║  Hospede no lottie.host e use o link .svg (renderiza no GitHub).   ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
+
 <table>
   <tr>
-    <td width="200">
-      <img src="https://github.com/rhaymisonbetini/huggphotos/blob/main/giphy.gif?raw=true" width="180" />
+    <td width="220" align="center">
+      <!-- HEADER LOTTIE: robô codando. Substituir se quebrar. -->
+      <img src="https://lottie.host/embed/3d76d4d6-fa55-4d12-9b1f-7e5dfae84e23/HJjL5tnA9z.lottie" width="200" />
     </td>
     <td>
       <h1>Hey, I'm Rhaymison Betini 👋</h1>
@@ -56,7 +70,7 @@
 
 **AI & Data**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
@@ -77,23 +91,52 @@
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| **🖥️ Terminator** | A next-gen terminal with AI + structured execution, inspired by Warp but pushing deeper into automation and developer workflows. | Python · AI Agents | [Page ↗](https://rhaymisonbetini.github.io/terminator-frontend/) |
-| _Coming soon_ | _Slot reserved for the next thing._ | — | — |
+| **🐘 Phplay** | A desktop REPL for PHP — write, run and inspect code in the real context of any Laravel/Symfony project, powered by your own system PHP. | Electron · Vue · TypeScript | [Repo ↗](https://github.com/rhaymisonbetini/Phplay) `WIP` |
+| **🖥️ Terminator** | A next-gen terminal with AI + structured execution, inspired by Warp but pushing deeper into automation and developer workflows. | TypeScript · AI Agents | [Live demo ↗](https://rhaymisonbetini.github.io/terminator-frontend/) |
 | _Coming soon_ | _Slot reserved for the next thing._ | — | — |
 
 ---
 
 ### 🎓 Education & Research
 
-🎓 **Postgrad** in Database Administration · Artificial Intelligence · Software Engineering &nbsp;·&nbsp; <br/>
-🎓 **Degree** in Systems Analysis and Development &nbsp;·&nbsp; <br/>
-🔬 **AI Researcher** @ AKCIT
+🎓 **Postgrad** in Database Administration · Artificial Intelligence · Software Engineering &nbsp;·&nbsp; 🎓 **Degree** in Systems Analysis and Development &nbsp;·&nbsp; 🔬 **AI Researcher** @ AKCIT
+
+---
+
+### 🏊 🚴 🏃 Beyond the keyboard
+
+<table>
+  <tr>
+    <td width="260" align="center">
+      <!-- TRIATHLON LOTTIE: ciclista/atleta. Substituir se quebrar. -->
+      <img src="https://lottie.host/embed/8e8a4e0c-9c11-4b27-aa8e-3f3c1e89e51e/triathlon.lottie" width="240" />
+    </td>
+    <td>
+      <p>
+        When I'm not shipping code, I'm training. <b>Triathlon</b> taught me
+        the same thing engineering did: long-term consistency beats
+        short bursts of effort.
+      </p>
+      <p>
+        Swim, bike, run. Plan, build, ship. Same discipline, different surface.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=rhaymisonbetini&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaymisonbetini&layout=compact&langs_count=6&theme=gruvbox&hide_border=true&cache_seconds=86400" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rhaymisonbetini&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
+
 ---
 
+<sub>⚡ Currently building: <b>Phplay</b> — bringing a real editor and rich output to PHP tinkering, on top of your own PHP.</sub>
