@@ -99,10 +99,6 @@ Swim, bike, run. Plan, build, ship. Same discipline, different surface.
 
 ### 📊 GitHub
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=rhaymisonbetini&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaymisonbetini&layout=compact&langs_count=6&theme=gruvbox&hide_border=true&cache_seconds=86400" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rhaymisonbetini&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
