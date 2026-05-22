@@ -1,21 +1,7 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  README pessoal — Rhaymison Betini                                ║
-  ║                                                                    ║
-  ║  Duas animações Lottie estão embutidas (header + triatlo).         ║
-  ║  Se alguma quebrar, troque a URL .svg em https://lottiefiles.com   ║
-  ║  filtrando por "Free", buscando por:                               ║
-  ║   - Header:   "robot coding" / "developer coding" / "ai typing"    ║
-  ║   - Triatlo:  "cyclist" / "runner" / "triathlon" / "athlete"       ║
-  ║  Hospede no lottie.host e use o link .svg (renderiza no GitHub).   ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
-
 <table>
   <tr>
     <td width="220" align="center">
-      <!-- HEADER LOTTIE: robô codando. Substituir se quebrar. -->
-      <img src="https://lottie.host/embed/3d76d4d6-fa55-4d12-9b1f-7e5dfae84e23/HJjL5tnA9z.lottie" width="200" />
+      <img src="https://github.com/rhaymisonbetini/huggphotos/blob/main/giphy.gif?raw=true" width="200" />
     </td>
     <td>
       <h1>Hey, I'm Rhaymison Betini 👋</h1>
@@ -105,24 +91,9 @@
 
 ### 🏊 🚴 🏃 Beyond the keyboard
 
-<table>
-  <tr>
-    <td width="260" align="center">
-      <!-- TRIATHLON LOTTIE: ciclista/atleta. Substituir se quebrar. -->
-      <img src="https://lottie.host/embed/8e8a4e0c-9c11-4b27-aa8e-3f3c1e89e51e/triathlon.lottie" width="240" />
-    </td>
-    <td>
-      <p>
-        When I'm not shipping code, I'm training. <b>Triathlon</b> taught me
-        the same thing engineering did: long-term consistency beats
-        short bursts of effort.
-      </p>
-      <p>
-        Swim, bike, run. Plan, build, ship. Same discipline, different surface.
-      </p>
-    </td>
-  </tr>
-</table>
+When I'm not shipping code, I'm training. **Triathlon** taught me the same thing engineering did: long-term consistency beats short bursts of effort.
+
+Swim, bike, run. Plan, build, ship. Same discipline, different surface.
 
 ---
 
