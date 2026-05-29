@@ -77,7 +77,7 @@
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| **🐘 Phplay** | A desktop REPL for PHP — write, run and inspect code in the real context of any Laravel/Symfony project, powered by your own system PHP. | Electron · Vue · TypeScript | [Repo ↗](https://rhaymisonbetini.github.io/phplay-frontend/) `WIP` |
+| **🐘 Phplay** | A desktop REPL for PHP — write, run and inspect code in the real context of any Laravel/Symfony project, powered by your own system PHP. | Electron · Vue · TypeScript | [Live demo ↗](https://rhaymisonbetini.github.io/phplay-frontend/) |
 | **🖥️ Terminator** | A next-gen terminal with AI + structured execution, inspired by Warp but pushing deeper into automation and developer workflows. | TypeScript · AI Agents | [Live demo ↗](https://rhaymisonbetini.github.io/terminator-frontend/) |
 | _Coming soon_ | _Slot reserved for the next thing._ | — | — |
 
